@@ -1,5 +1,14 @@
 ---
-title: "jordynluna-ui.github.io"
+title: "Jordyn Luna"
+image: media/IMG_9075.JPG
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 8cm
+  links:
+    - icon: github
+      href: http://github.com/jordynluna-ui
+      target: blank
 ---
 
 This is a Quarto website.
