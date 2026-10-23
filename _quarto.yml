@@ -3,12 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "Jordyn Luna"
+  # title: "Jordyn Luna"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - resume.qmd
+      - icon: github
+        href: http://github.com/jordynluna-ui
+        target: blank
 
 format:
   html:
