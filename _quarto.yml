@@ -5,6 +5,8 @@ project:
 website:
   # title: "Jordyn Luna"
   navbar:
+    color: black
+    background: steelblue
     left:
       - href: index.qmd
         text: Home
@@ -13,7 +15,10 @@ website:
       - icon: github
         href: http://github.com/jordynluna-ui
         target: blank
-
+  page-footer:
+    background: azure
+    left: © Copyright 2026, Jordyn Luna
+    right: This website is built with [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank}
 format:
   html:
     theme:
