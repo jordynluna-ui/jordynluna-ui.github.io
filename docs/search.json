@@ -2,23 +2,23 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I was born and raised in Kahului, Maui. Growing up, I was an active kid who played a variety of sports. Basketball was my favorite, but I also played tennis."
   },
   {
     "objectID": "resume.html",
     "href": "resume.html",
     "title": "Resume",
     "section": "",
-    "text": "About this site\nDownload PDF file."
+    "text": "Download PDF file."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jordyn Luna",
     "section": "",
-    "text": "This is a paragraph. It will be about me. Welcome!\n\nthis is a unordered list\n\n\nthis is a ordered list"
+    "text": "Hi, I’m Jordyn Luna, a data science major at Chaminade University and a Captain for the women’s basketball team."
   },
   {
     "objectID": "index.html#header2",
@@ -26,5 +26,19 @@
     "title": "Jordyn Luna",
     "section": "",
     "text": "This is a paragraph. It will be about me. Welcome!\n\nthis is a unordered list\n\n\nthis is a ordered list"
+  },
+  {
+    "objectID": "about.html#journey-to-chaminade",
+    "href": "about.html#journey-to-chaminade",
+    "title": "About Me",
+    "section": "Journey to Chaminade",
+    "text": "Journey to Chaminade\nAfter graduating high school, I came to Chaminade University to play on the women’s tennis team. The following year, I transferred to Western Wyoming Community College, where I played two years of junior college basketball and earned my associate degree. When my sophomore season ended, I reopened my recruitment and ultimately committed back to Chaminade, where I now play basketball. When I graduate, I’m interested in coaching and as I’m studying data science, I would be interested in applying it to environmental issues or sports analytics."
+  },
+  {
+    "objectID": "about.html#fun-facts",
+    "href": "about.html#fun-facts",
+    "title": "About Me",
+    "section": "Fun Facts",
+    "text": "Fun Facts\nBasketball takes up most of my time, but I also love to travel, read, and spend time with friends and family. Some fun facts about me are that I can solve a rubix cube, I know how to do the worm, and I can do magic tricks!"
   }
 ]

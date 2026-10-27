@@ -2,7 +2,7 @@
 
 
 h2 {
-  color: gray;
+  color:#838B8B;
 }
 
 h3 {
@@ -24,6 +24,30 @@ body {
 }
 
 body.quarto-dark {
-  background-color: #1a1a2e;
+  background-color: #2E2D2D;
+}
+
+navbar {
+  background-color: steelblue;
+}
+
+
+.navbar a, .navbar p {
+  color: black;
+  font-weight: bold;
+}
+
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+a img {
+  transition: transform 0.2s ease, filter 0.2s ease;
+}
+
+a img:hover {
+  transform: scale(1.15);
+  filter: brightness(1.2);
 }
 

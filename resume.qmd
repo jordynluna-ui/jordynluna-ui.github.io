@@ -4,6 +4,4 @@ resources:
   - media/Jordyn_Luna_Resume_privateinfo_removed.pdf
 ---
 
-About this site
-
 {{< pdf media/Jordyn_Luna_Resume_privateinfo_removed.pdf width = 100% height = 800 >}}

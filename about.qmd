@@ -1,9 +1,16 @@
 ---
-title: "About"
+title: "About Me"
+toc: false
 ---
 
-About this site
+I was born and raised in Kahului, Maui. Growing up, I was an active kid who played a variety of sports. Basketball was my favorite, but I also played tennis.
 
-```{r}
-1 + 1
-```
+## Journey to Chaminade
+
+After graduating high school, I came to Chaminade University to play on the women’s tennis team. The following year, I transferred to Western Wyoming Community College, where I played two years of junior college basketball and earned my associate degree. When my sophomore season ended, I reopened my recruitment and ultimately committed back to Chaminade, where I now play basketball. When I graduate, I’m interested in coaching and as I'm studying data science, I would be interested in applying it to environmental issues or sports analytics.
+
+## Fun Facts
+
+Basketball takes up most of my time, but I also love to travel, read, and spend time with friends and family. Some fun facts about me are that I can solve a rubix cube, I know how to do the worm, and I can do magic tricks!
+
+[![](media/Athletics_C.png){width="40" fig-alt="Chaminade University Women's Basketball Roster"}](https://goswords.com/sports/womens-basketball/roster/jordyn-luna/7058)

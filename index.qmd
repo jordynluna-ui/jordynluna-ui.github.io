@@ -11,14 +11,4 @@ about:
       target: blank
 ---
 
-# Header1
-
-## Header2
-
-### Header3
-
-This is a paragraph. It will be about me. Welcome!
-
-- this is a unordered list
-
-1.  this is a ordered list
+Hi, I'm Jordyn Luna, a data science major at Chaminade University and a Captain for the women's basketball team.
