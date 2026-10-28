@@ -2,7 +2,7 @@
 
 
 h2 {
-  color:#838B8B;
+  color: black;
 }
 
 h3 {
@@ -19,9 +19,6 @@ ol, ul {
   font-style: italic;
 }
 
-body {
-  background-color: #fdf6f0;
-}
 
 body.quarto-dark {
   background-color: #2E2D2D;

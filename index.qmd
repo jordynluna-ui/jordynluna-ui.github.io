@@ -1,5 +1,5 @@
 ---
-title: "Jordyn Luna"
+title: " ✦ Jordyn Luna ✦ "
 image: media/IMG_9075.JPG
 about: 
   template: jolla
@@ -11,4 +11,6 @@ about:
       target: blank
 ---
 
-Hi, I'm Jordyn Luna, a data science major at Chaminade University and a Captain for the women's basketball team.
+⛧°. ⋆༺༻⋆.☾.⋆༺༻⋆°⛧
+
+Hi, I'm Jordyn Luna, a data science major at Chaminade University and a Captain on the women's basketball team.
